@@ -1,6 +1,7 @@
 # 🍽️ Sistema de Self Service para Restaurantes
 
-Um sistema web desenvolvido para auxiliar restaurantes no gerenciamento de atendimentos do tipo **self service**, permitindo controle eficiente de **pesagem de pratos, cálculo automático de valores, registro de pedidos e relatórios de vendas**.
+O sistema de Self Service para Restaurantes tem como objetivo gerenciar o processo de venda, pagamento e entrega de pedidos, permitindo o controle de clientes, produtos, categorias e formas de pagamento.
+Ele deve possibilitar que um cliente realize pedidos compostos por um ou mais produtos, cada um podendo ter quantidades, descontos e categorias diferentes.
 
 ---
 
